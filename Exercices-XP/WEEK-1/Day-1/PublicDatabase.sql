@@ -23,7 +23,7 @@ select * from items;
 select * from customers;
 
 select * from items 
-WHERE price > 80;
+WHERE price > 80; 
 
 select * from items 
 WHERE price <= 300;
